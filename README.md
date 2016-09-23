@@ -1,0 +1,2 @@
+# themes
+shopify themes adaptation
